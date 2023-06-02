@@ -1,4 +1,4 @@
-# Designed by Dengju Deng in 2017/2/17
+# Designed by David Bush in 2017/2/17
 
 ## http://www.sail-fs.com
 
